@@ -1,2 +1,2 @@
 # PythonProjects
-Self learning projects
+Self learning project
